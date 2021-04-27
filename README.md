@@ -1,50 +1,66 @@
-# PortfolioUpdate2
-It's now time to update the portfolio once again and enhance it with all the new things you've learned. Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+# PortfolioUPdate3
 
-## Requirements
+#### Table of contents
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+1. [Project Task](#project-task)
+2. [User Story](#user-story)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Installation Instructions](#installation-instruction)
+5. [Test Instructions](#test-instruction)
+6. [Usage Information](#usage-information)
+7. [Contributor Guidelines](#contributor-guidelines)
+8. [Mock Up](#mock-up)
+9. [License](#license)
+10. [Questions](#questions)
 
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+## Project Task
 
-* Submit an updated resume
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
-* Submit an updated LinkedIn profile
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
 
-## Grading
+## User Story
 
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+    * N/A
+
+## Acceptance Criteria
+
+* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Updated resume
+
+* Updated LinkedIn profile
+
+* Mobile-first design
+
+* Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
+
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+## Installation Instructions
+
+    * N/A
+
+## Test Instructions
+
+    * N/A
+
+## Usage Information
+    * N/A
+
+## Contributor Guidlines
+
+    * Contributions are always welcome! (Please fork and pull request only.)
+
+## Mock-Up
 
 
-## Requirements
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-
-* Submit an updated resume
-
-* Submit an updated LinkedIn profile
-
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-## MockUP
-![image](https://user-images.githubusercontent.com/40922162/112650904-e0191980-8e19-11eb-8db3-f0ea406a679c.png)
-
-![image](https://user-images.githubusercontent.com/40922162/112650920-e3aca080-8e19-11eb-88d9-7411c2c1dc13.png)
-
-## URL
-
-https://cesarocampos.github.io/PortfolioUpdate2/
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+    
+## Questions
+Email me at cesarorlandocampos@gmail.com
+Find me on GitHub [CesarOCampos](http://github.com/CesarOCampos)
