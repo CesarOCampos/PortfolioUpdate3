@@ -9,7 +9,7 @@
 5. [Test Instructions](#test-instruction)
 6. [Usage Information](#usage-information)
 7. [Contributor Guidelines](#contributor-guidelines)
-8. [Mock Up](#mock-up)
+8. [live-link](#live-link)
 9. [License](#license)
 10. [Questions](#questions)
 
@@ -54,9 +54,9 @@ the default bootstrap theme or an unstyled HTML site.
 
     * Contributions are always welcome! (Please fork and pull request only.)
 
-## Mock-Up
+## Live-link
 
-
+https://cesarocampos.github.io/PortfolioUpdate3/
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
