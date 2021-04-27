@@ -254,10 +254,18 @@ main {
     background-image: url("../images/CASBootCampJobSearch.png");
 }
 
+.dmc {
+    background-image: url("../images/DMC.png");
+}
+
+.techy {
+    background-image: url("../images/techy.png");
+}
+
 
 /* end portfolio project images */
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 992px) {
     header {
         padding: 0 0 10px 0;
         justify-content: center;
