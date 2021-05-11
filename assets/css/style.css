@@ -220,11 +220,11 @@
     }
     
     #desktop {
-        display: none;
+        display: inline;
     }
     
     #mobile {
-        display: inline;
+        display: none;
     }
     /* portfolio project images */
     
